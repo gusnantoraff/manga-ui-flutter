@@ -1,5 +1,4 @@
-# uts_project
-
+# UI Manga reader
 A new Flutter project.
 
 ## Getting Started
